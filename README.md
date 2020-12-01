@@ -161,7 +161,7 @@ git pull [remote-name] [branch-name]
 git push [remote-name] [branch-name]
 ```
 
-> 这块的`origin`与`master`分支一样，都是`git`默认生成的，与其他分支或者名称一样，没有什么特殊意义。
+> 这块的`origin`与`master`分支一样(从2020年10月1日起改为`main`)，都是`git`默认生成的，与其他分支或者名称一样，没有什么特殊意义。
 
 ### 标签管理 tag
 
